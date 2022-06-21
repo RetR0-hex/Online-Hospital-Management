@@ -1,0 +1,3 @@
+|user id:2735204|user permission:0|username:retr0|password:test123|name:Abdul-Mateen|
+|user id:0419354|user permission:2|username:azm|password:tets|name:azeem|patient id:6805504|age:18|insurance_plan_id:0|gender:M|medical history:heart_problems|
+|user id:7461375|user permission:0|username:yuyg|password:uiui|name:ssss|
